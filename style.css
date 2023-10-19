@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+  }
+
+
+table {
+  border-collapse: collapse;  
+  font-size: 120%;  
+
+}
+
+
+tbody tr:nth-child(even) {
+    background-color: #eee;
+  }
+
+.numbers {
+  text-align: center;
+}
+
+table.kleineTabelle {
+  font-size: 80% ;
+}
